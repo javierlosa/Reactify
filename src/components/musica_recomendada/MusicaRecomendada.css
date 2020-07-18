@@ -1,0 +1,11 @@
+
+
+.musica_recomendada h1 {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
